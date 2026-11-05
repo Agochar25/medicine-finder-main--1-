@@ -17,8 +17,11 @@ A full-stack web application that helps people find medicines and nearby pharmac
 
 ## ⚙️ Installation
 
-1. Clone the repo
-   git clone https://github.com/praveenkumarbera/medicine-finder.git
+## ⚙️ Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Agochar25/medicine-finder-main--1-.git
 
 2. Install dependencies
    cd backend
